@@ -1,0 +1,39 @@
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Form1.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
+D:\Slideshow-master\Slideshow-master\Slideshow\bin\Debug\Slideshow.exe.config
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.exe
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.pdb
+D:\Slideshow-master\Slideshow-master\Slideshow\bin\Debug\Slideshow.exe
+D:\Slideshow-master\Slideshow-master\Slideshow\bin\Debug\Slideshow.pdb
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.Form1.resources
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+D:\Slideshow-master\Slideshow-master\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+D:\Slide\Slideshow-master\Slideshow\bin\Debug\Slideshow.exe.config
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.exe
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.pdb
+D:\Slide\Slideshow-master\Slideshow\bin\Debug\Slideshow.exe
+D:\Slide\Slideshow-master\Slideshow\bin\Debug\Slideshow.pdb
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.Form1.resources
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+D:\Slide\Slideshow-master\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+D:\SlideshowThoa\Slideshow\bin\Debug\Slideshow.exe.config
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.exe
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.pdb
+D:\SlideshowThoa\Slideshow\bin\Debug\Slideshow.exe
+D:\SlideshowThoa\Slideshow\bin\Debug\Slideshow.pdb
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.Form1.resources
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+D:\SlideshowThoa\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\SlideshowThoa\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\Dell\Desktop\SlideshowThoa\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\Dell\Desktop\SlideshowThoa\Slideshow\obj\Debug\Slideshow.pdb
